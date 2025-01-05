@@ -8,13 +8,13 @@ Test NG - Testing Framework used to design & Run the test cases
 Maven - Build Automation tool
 
 # Design
-#src/main/java/Pages/com.ui - Ebay page design & Project specific methods
+#src/main/java/com/ui - Ebay page design & Project specific methods
 #src/test/java/tests - Test cases are placed
 
 # Testcases :
 
-#src/test/java/UiTestCase001.java - Ebay add to cart  
-#src/main/java/ApiTestCase002.java - Coinbase API validation
+#src/test/java/tests/UiTestCase001.java - Ebay add to cart  
+#src/test/java/tests/ApiTestCase002.java - Coinbase API validation
 
 # Execution :
 To run the test cases navigate to  RunTestSuite.xml -> Run as TestNG Suite
