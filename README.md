@@ -12,9 +12,9 @@ Maven - Build Automation tool
 #src/test/java/tests - Test cases are placed
 
 #Testcases :
-# 2 test cases cretaed under
-# src/test/java/UiTestCase001.java
-# src/main/java/ApiTestCase002.java
+#2 test cases cretaed under
+#src/test/java/UiTestCase001.java
+#src/main/java/ApiTestCase002.java
 
 # Execution :
 #To run the test cases navigate to  RunTestSuite.xml -> Run as TestNG Suite
